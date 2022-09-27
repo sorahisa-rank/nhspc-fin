@@ -1,0 +1,15 @@
+{
+    "extra_headers": [
+        "Subtask 1 (9)",
+        "Subtask 2 (7)",
+        "Subtask 3 (47)",
+        "Subtask 4 (37)"
+    ],
+    "name": "\u5c0b\u5bf6\u4e4b\u65c5",
+    "short_name": "C_treasure",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 2
+}

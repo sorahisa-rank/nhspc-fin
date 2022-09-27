@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (12)",
+        "Subtask 2 (43)",
+        "Subtask 3 (45)"
+    ],
+    "name": "\u4fdd\u5168\u516c\u53f8",
+    "short_name": "H_security",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 7
+}

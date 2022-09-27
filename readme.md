@@ -1,9 +1,21 @@
 -   2017
+    -   題本：https://sorahisa-rank.github.io/nhspc-fin/2017/problems.pdf
+    -   題解：https://sorahisa-rank.github.io/nhspc-fin/2017/editorial.pdf
     -   縮時 by Adrien Wu：https://sorahisa-rank.github.io/nhspc-fin/2017/ranking.mp4
 -   2018
+    -   題本：https://sorahisa-rank.github.io/nhspc-fin/2018/problems.pdf
+    -   題解：https://sorahisa-rank.github.io/nhspc-fin/2018/editorial.pdf
     -   截圖 by baluteshih：https://sorahisa-rank.github.io/nhspc-fin/2018/ranking.jpg
     -   縮時 by Adrien Wu：https://sorahisa-rank.github.io/nhspc-fin/2018/ranking.mp4
 -   2019
+    -   題本：https://sorahisa-rank.github.io/nhspc-fin/2019/problems.pdf
+    -   題解：https://sorahisa-rank.github.io/nhspc-fin/2019/editorial.pdf
+    -   正式賽：https://sorahisa-rank.github.io/nhspc-fin/2019/ranking/
 -   2020
+    -   題本：https://sorahisa-rank.github.io/nhspc-fin/2020/problems.pdf
+    -   題解：https://sorahisa-rank.github.io/nhspc-fin/2020/editorial.pdf
+    -   正式賽：https://sorahisa-rank.github.io/nhspc-fin/2020/ranking/
 -   2021
-    -   https://sorahisa-rank.github.io/nhspc-fin/2021/ranking/
+    -   題本：https://sorahisa-rank.github.io/nhspc-fin/2021/problems.pdf
+    -   題解：https://sorahisa-rank.github.io/nhspc-fin/2021/editorial.pdf
+    -   正式賽：https://sorahisa-rank.github.io/nhspc-fin/2021/ranking/

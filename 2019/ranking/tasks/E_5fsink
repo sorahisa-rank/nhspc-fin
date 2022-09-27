@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (9)",
+        "Subtask 2 (38)",
+        "Subtask 3 (53)"
+    ],
+    "name": "\u6c34\u69fd",
+    "short_name": "E_sink",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 4
+}

@@ -1,0 +1,12 @@
+{
+    "name": "\u8dd1\u8dd1\u904a\u6232\u5834",
+    "short_name": "mouse",
+    "contest": "NHSPC2020",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "order": 7,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

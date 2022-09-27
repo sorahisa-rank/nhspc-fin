@@ -1,0 +1,14 @@
+{
+    "name": "\u5171\u540c\u670b\u53cb",
+    "short_name": "friend",
+    "contest": "NHSPC2020",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (9)",
+        "Subtask 2 (12)",
+        "Subtask 3 (79)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (17)",
+        "Subtask 2 (26)",
+        "Subtask 3 (57)"
+    ],
+    "name": "\u5b8c\u5168\u5e73\u65b9\u4e8c\u9805\u4fc2\u6578",
+    "short_name": "B_square",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 1
+}

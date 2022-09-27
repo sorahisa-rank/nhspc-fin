@@ -1,0 +1,14 @@
+{
+    "name": "\u77e9\u9663\u76f8\u4e58",
+    "short_name": "matrix",
+    "contest": "NHSPC2020",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (21)",
+        "Subtask 2 (45)",
+        "Subtask 3 (34)"
+    ],
+    "order": 6,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

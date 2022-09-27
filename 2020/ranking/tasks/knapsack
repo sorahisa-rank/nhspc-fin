@@ -1,0 +1,13 @@
+{
+    "name": "\u7926\u7802\u63a1\u96c6",
+    "short_name": "knapsack",
+    "contest": "NHSPC2020",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (50)",
+        "Subtask 2 (50)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

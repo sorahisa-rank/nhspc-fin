@@ -1,0 +1,15 @@
+{
+    "extra_headers": [
+        "Subtask 1 (7)",
+        "Subtask 2 (14)",
+        "Subtask 3 (23)",
+        "Subtask 4 (56)"
+    ],
+    "name": "\u9694\u96e2\u63a1\u7926",
+    "short_name": "G_mining",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 6
+}

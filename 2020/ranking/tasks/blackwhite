@@ -1,0 +1,14 @@
+{
+    "name": "\u9ed1\u767d\u6a5f",
+    "short_name": "blackwhite",
+    "contest": "NHSPC2020",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (9)",
+        "Subtask 2 (17)",
+        "Subtask 3 (74)"
+    ],
+    "order": 8,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

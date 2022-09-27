@@ -1,0 +1,12 @@
+{
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "name": "\u97f3\u6a94\u526a\u8f2f",
+    "short_name": "A_sound",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 0
+}

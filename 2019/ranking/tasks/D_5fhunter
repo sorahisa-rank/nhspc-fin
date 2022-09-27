@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (20)",
+        "Subtask 2 (23)",
+        "Subtask 3 (57)"
+    ],
+    "name": "\u7375\u4eba\u8207\u65af\u82ac\u514b\u65af",
+    "short_name": "D_hunter",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 3
+}

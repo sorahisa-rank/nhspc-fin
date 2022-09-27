@@ -1,0 +1,14 @@
+{
+    "name": "\u6b61\u6a02\u5916\u9001\u9ede",
+    "short_name": "delivery",
+    "contest": "NHSPC2020",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (13)",
+        "Subtask 2 (21)",
+        "Subtask 3 (66)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

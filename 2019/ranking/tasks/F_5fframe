@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (5)",
+        "Subtask 2 (30)",
+        "Subtask 3 (65)"
+    ],
+    "name": "\u7ffb\u8f49\u8207\u6846\u67b6\u5340\u9593",
+    "short_name": "F_frame",
+    "contest": "NHSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 5
+}

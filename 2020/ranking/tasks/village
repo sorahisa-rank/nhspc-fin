@@ -1,0 +1,13 @@
+{
+    "name": "\u6751\u838a\u8207\u5c0f\u5f91",
+    "short_name": "village",
+    "contest": "NHSPC2020",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (32)",
+        "Subtask 2 (68)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
