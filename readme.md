@@ -1,6 +1,5 @@
 -   2017
     -   題本：https://sorahisa-rank.github.io/nhspc-fin/2017/problems.pdf
-    -   題解：https://sorahisa-rank.github.io/nhspc-fin/2017/editorial.pdf
     -   縮時 by Adrien Wu：https://sorahisa-rank.github.io/nhspc-fin/2017/ranking.mp4
 -   2018
     -   題本：https://sorahisa-rank.github.io/nhspc-fin/2018/problems.pdf
