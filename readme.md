@@ -30,3 +30,7 @@
     -   [題解](https://sorahisa-rank.github.io/nhspc-fin/2021/editorial.pdf)
     -   [題解 on twpca](https://nhspc2021.twpca.org/editorial/editorial)
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-fin/2021/ranking/)
+-   2022
+    -   [題本](https://sorahisa-rank.github.io/nhspc-fin/2022/problems.pdf)
+    -   題解
+    -   [正式賽](https://sorahisa-rank.github.io/nhspc-fin/2022/ranking/)
