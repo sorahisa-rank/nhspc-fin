@@ -34,3 +34,7 @@
     -   [題本](https://sorahisa-rank.github.io/nhspc-fin/2022/problems.pdf)
     -   題解
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-fin/2022/ranking/)
+-   2023
+    -   題本
+    -   題解
+    -   [正式賽](https://sorahisa-rank.github.io/nhspc-fin/2023/ranking/)
