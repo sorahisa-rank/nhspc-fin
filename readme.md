@@ -39,4 +39,5 @@
     -   題解
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-fin/2023/ranking/)
 -   2024
-    -   [正式賽](https://sorahisa-rank.github.io/nhspc-fin/2024/ranking/)
+    -   [正式賽（最後幾分鐘沒有更新）](https://sorahisa-rank.github.io/nhspc-fin/2024/ranking/)
+    -   [正式賽（靜態網頁）](https://sorahisa-rank.github.io/nhspc-fin/2024/ranking/web/)
